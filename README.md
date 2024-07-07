@@ -254,3 +254,7 @@ this, two changes need to be made:
    `#[nutype(validate(not_empty, ...))]`
 2. In all `impl` blocks where we create `fn formatted_error`, change
    `StructError::Missing` to `StructError::Empty`.
+
+
+memo: 
+15. Keyed Notifications Template - Zero To Mastery Academy
